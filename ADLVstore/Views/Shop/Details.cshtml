@@ -1,0 +1,202 @@
+﻿@model ShopOnlineConnection.SanPham
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Mainlayout.cshtml";
+}
+
+<div id="page-content" class="single-page">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <ul class="breadcrumb">
+                    <li><a href="@Url.Action("index","Home")">Trang Chủ</a></li>
+                    <li><a href="@Url.Action("index","LoaiSanPham")">@Model.MaLoaiSanPham</a></li>
+                    <li><a href="@Url.Action("index","NhaSanXuat")">@Model.MaNhaSanXuat</a></li>
+                    <li><a href="@Url.Action("Details","Shop")">@Model.MaSanPham</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div id="main-content" class="col-md-8">
+                <div class="product">
+                    <div class="col-md-6">
+                        <div class="image">
+                            <img src="~/Asset/images/@Model.HinhChinh" />
+                            <div class="image-more">
+                                <ul class="row">
+                                    <li class="col-lg-3 col-sm-3 col-xs-4">
+                                        <a href="#"><img class="img-responsive" src="~/Asset/images/@Model.HinhChinh"></a>
+                                    </li>
+                                    <li class="col-lg-3 col-sm-3 col-xs-4">
+                                        <a href="#"><img class="img-responsive" src="~/Asset/images/@Model.Hinh1"></a>
+                                    </li>
+                                    <li class="col-lg-3 col-sm-3 col-xs-4">
+                                        <a href="#"><img class="img-responsive" src="~/Asset/images/@Model.Hinh2"></a>
+                                    </li>
+                                    <li class="col-lg-3 col-sm-3 col-xs-4">
+                                        <a href="#"><img class="img-responsive" src="~/Asset/images/@Model.Hinh3"></a>
+                                    </li>
+                                    <li class="col-lg-3 col-sm-3 col-xs-4">
+                                        <a href="#"><img class="img-responsive" src="~/Asset/images/@Model.Hinh4"></a>
+                                    </li>
+                                </ul>
+
+                            </div>
+
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="caption">
+                            <div class="name">
+                                <h2>@Model.TenSanPham</h2>
+                            </div>
+                            <div><h5>Lượt view : @Model.LuotView</h5></div>
+                            <div class="info">
+                                <ul>
+                                    <li>Brand:@Model.MaNhaSanXuat</li>
+                                    <li>ID: @Model.MaSanPham</li>
+                                    @{
+                                        if (Model.Khuyenmai != null)
+                                        {
+                                            <li> Khuyến Mãi - @Model.Khuyenmai%</li>
+                                        }
+                                    }
+                                </ul>
+                            </div>
+                            <div class="price">
+                                @{
+                                    if (Model.Khuyenmai != null)
+                                    {
+                                        <del> @String.Format(System.Globalization.CultureInfo.GetCultureInfo("vi-VN"), "{0:c}", Model.Gia)</del>
+                                    }
+                                    else
+                                    {
+                                        @String.Format(System.Globalization.CultureInfo.GetCultureInfo("vi-VN"), "{0:c}", Model.Gia)
+                                    }
+                                }
+                            </div>
+
+                            @{
+                                if (Model.Khuyenmai != null)
+                                {
+                                    var giaSauGiam = Model.Gia - (Model.Gia / 100 * Model.Khuyenmai);
+                                    <div class="price">
+                                        @String.Format(System.Globalization.CultureInfo.GetCultureInfo("vi-VN"), "{0:c}", giaSauGiam)
+                                    </div>
+                                }
+
+                            }
+
+                            <div class="rating"><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star"></span><span class="glyphicon glyphicon-star-empty"></span></div>
+                            @using (Html.BeginForm("Them", "GioHang", FormMethod.Post))
+                            {
+                                <input type="hidden" name="tensanpham" value="@Model.TenSanPham" />
+                                <input type="hidden" name="masanpham" value="@Model.MaSanPham" />
+                                <input type="hidden" name="gia" value="@Model.Gia" />
+
+                                if (Model.Khuyenmai != null)
+                                {
+                                    <input type="hidden" name="Khuyenmai" value="@Model.Khuyenmai" />
+                                }
+                                else
+                                {
+                                    <input type="hidden" name="Khuyenmai" value="0" />
+                                }
+                                <label>Số Lượng: </label> <input class="form-inline quantity" type="number" value="1" min="1" max="@Model.SoLuongSanPham" name="soluong" />
+                                if (User.Identity.IsAuthenticated)
+                                {
+                                    <input type="submit" class="btn btn-2 " value="Thêm vào giỏ"> }
+                                else
+                                {
+                                    <span>Đăng nhập để thêm giỏ hàng</span>
+                                }
+                            }
+
+
+                        </div>
+                        <div class="clear" style="height:10%;   "></div>
+                    </div>
+                    <div class="product-desc">
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <form method="post" action="~/BinhLuan/Create">
+                                <input type="hidden" name="MaSanPham" value="@Model.MaSanPham" />
+                                <textarea style="width:100%;max-width:100%;max-height:300px;" maxlength="2048" placeholder="Nhập nội dung cần bình luận...." name="NoiDung"></textarea>
+                                <input type="submit" value="Bình Luận" style="float:right;" />
+                            </form>
+                        }
+                        else
+                        {
+                            <h2>Vui lòng đăng nhập để bình luận</h2>
+                        }
+
+                        <span><br /><br /><br /><br /></span>
+                        @{
+                            int page = ViewBag.page;
+                            int pagesize = ViewBag.pagesize;
+                        }
+                        @Html.Partial("_BinhLuan", ADLVstore.Models.BUS.BinhLuanBUS.LoadBinhLuan(@Model.MaSanPham, page, pagesize))
+
+
+                    </div>
+                </div>
+                @Html.Partial("_SelectLoaiSanPham", ADLVstore.Models.BUS.ShopOnlineBUS.SelectLoaiSanPham(@Model.MaSanPham))
+            </div>
+            <div id="sidebar" class="col-md-4">
+                <div class="widget wid-categories">
+                    <div class="heading"><h4>Thông tin về @Model.TenSanPham</h4></div>
+                    <div class="content">
+                        @Html.Raw(HttpUtility.HtmlDecode(Model.CauHinh))
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+</div>
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-body">
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<script>
+    $(document).ready(function () {
+        $(".nav-tabs a").click(function () {
+            $(this).tab('show');
+        });
+        $('.nav-tabs a').on('shown.bs.tab', function (event) {
+            var x = $(event.target).text();         // active tab
+            var y = $(event.relatedTarget).text();  // previous tab
+            $(".act span").text(x);
+            $(".prev span").text(y);
+        });
+    });
+</script>
+<!--<div class="modal fade" id="imagesManange" role="dialog">
+    <div class="modal-dialog modal-lg">-->
+<!-- Modal content-->
+<!--<div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Chi tiết</h4>
+            </div>
+            <div class="modal-body">
+                <div id="_imageList">
+
+                </div>
+                <div class="clear"></div>
+                <input type="hidden" id="_hidProductID" value="0" />
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+
+    </div>
+</div>-->

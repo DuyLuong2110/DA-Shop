@@ -1,0 +1,77 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+
+<div id="page-content" class="single-page">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <ul class="breadcrumb">
+                    <li><a href="@Url.Action("index","Home")">Home</a></li>
+                    <li><a href=@Url.Action("About","Home")>Thông tin</a></li>
+
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div id="main-content" class="col-md-8">
+                <div class="product">
+                    <div class="col-md-6">
+                        <div class="image">
+
+                            <ul class="row">
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="clear"></div>
+            </div>
+            <div class="product-desc">
+                <ul class="nav nav-tabs">
+                    <li class="active"><a href="#description">Thông tin về DA SHOP</a></li>
+                    
+                </ul>
+                <div class="tab-content">
+                    <div id="description" class="tab-pane fade in active">
+                        <h4>ĐỊNH VỊ VÀ NÂNG TẦM THƯƠNG HIỆU : </h4>
+                        <p>DA SHOP là sàn thương mại điện tử dành cho giới trẻ đầu tiên lớn nhất ở Việt Nam, với gần 300 thương hiệu đang hợp tác.</p>
+                        <h4>QUẢN LÝ BÁN HÀNG CHUYÊN NGHIỆP : </h4>
+                        <p>Trang quản lý cập nhật sản phẩm, kho hàng và đơn hàng, theo dõi doanh thu trực tiếp, giao diện dễ thao tác và nhanh chóng, đối soát liên tục, liên kết với giao hàng chuyên nghiệp với GHTK.</p>
+                        <h4>TIẾP CẬN TẬP KHÁCH HÀNG KHỔNG LỒ : </h4>
+                        <p>Website với hơn 2 triệu lượt truy cập mỗi tháng, hệ sinh thái Media tương tác cao với Fanpage Facebook lên đến nữa triệu lượt like. Hướng thẳng mục tiêu đến đối tượng giới trẻ, 90% ở độ tuổi từ 16-24.</p>
+                        <h4>CHƯƠNG TRÌNH MARKETING DÀNH RIÊNG CHO BẠN : </h4>
+                        <p>Tăng doanh thu và độ phủ sóng thương hiệu với các chương trình Marketing thiết kế riêng cho từng thương hiệu. Cơ hội được góp mặt trong các sự kiện và tạp chí xuất bản với lượt đọc giả online lên đến nữa triệu.</p>
+
+                    </div>
+                    <div id="review" class="tab-pane fade">
+                        <div class="review-text">
+                            <p>Hãy để lại thông tin và chúng tôi sẽ liên hệ bạn.</p>
+                        </div>
+                        <div class="review-form">
+                            <h4>Thông tin của bạn</h4>
+                            <form name="form1" id="ff" method="post" action="review.php">
+                                <label>
+                                    <span>Tên của bạn:</span>
+                                    <input type="text" name="name" id="name" required>
+                                </label>
+                                <label>
+                                    <span>Thông tin của bạn:</span>
+                                    <textarea name="message" id="message"></textarea>
+                                </label>
+                                <div class="text-right">
+                                    <input class="btn btn-default" type="reset" name="reset" value="Reset">
+                                    <input class="btn btn-default" type="submit" name="Submit" value="Submit">
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div id="sidebar" class="col-md-4">
+
+        </div>
+    </div>
+</div>

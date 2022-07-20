@@ -1,0 +1,26 @@
+﻿<!--Header-->
+@model IEnumerable<ShopOnlineConnection.GioHang>
+<header class="container">
+    <div class="row">
+        @*<div class="col-md-4">
+                <div id="logo"><img src="~/Asset/images/DASHOP.jpg" style="width: 100px ; height: 55px"/></div>
+            </div>*@
+
+        <div>
+            <form class="form-search" action="~/TimKiem/KetQuaTimKiem">
+                <div id="logo"><img src="~/Asset/images/DAshopLogo.png" /></div>
+                <input type="hidden" value="" name="MaNhaSanXuat" />
+                <input type="hidden" value="" name="MaLoaiSanPham" />
+                <input type="hidden" value="" name="GiaBatDau" />
+                <input type="hidden" value="" name="GiaKetThuc" />
+                <input type="text" class="input-medium search-query" name="timkiem" placeholder="Nhập tên sản phẩm">
+                <button type="submit" class="btn"><span class="glyphicon glyphicon-search"></span></button>
+                <div id="cart"><a class="btn btn-1" href="@Url.Action("index", "GioHang")"><span class="glyphicon glyphicon-shopping-cart"></span>Giỏ Hàng : @Model.Count() ITEM</a></div>
+            </form>
+
+            @*<div>
+                    <div id="cart"><a class="btn btn-1" href="@Url.Action("index", "GioHang")"><span class="glyphicon glyphicon-shopping-cart"></span>Giỏ Hàng : @Model.Count() ITEM</a></div>
+                </div>*@
+        </div>
+    </div>
+</header>

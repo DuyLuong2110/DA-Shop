@@ -1,0 +1,130 @@
+﻿@using Microsoft.AspNet.Identity
+@{
+    ViewBag.Title = "_Mainlayout";
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Free Bootstrap Themes by 365Bootstrap dot com - Free Responsive Html5 Templates">
+    <meta name="author" content="http://www.365bootstrap.com">
+
+    <title>DA SHOP</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="~/Asset/css/bootstrap.min.css" type="text/css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="~/Asset/css/style.css">
+
+
+    <!-- Custom Fonts -->
+    <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="fonts/font-slider.css" type="text/css">
+
+    <!-- jQuery and Modernizr-->
+    <script src="~/Asset/js/jquery-2.1.1.js"></script>
+
+    <!-- Core JavaScript Files -->
+    <script src="~/Asset/js/bootstrap.min.js"></script>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="js/html5shiv.js"></script>
+        <script src="js/respond.min.js"></script>
+    <![endif]-->
+    <script src="~/Areas/AssetAdmin/js/ckeditor/ckeditor.js"></script>
+</head>
+
+<body>
+    <!--Top-->
+    <nav id="top">
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-6">
+                  
+          @*     <span class="currency"><a href="../Admin/MainAdmin">Đến trang Admin</a></span>*@
+                    @*  <select class="language">
+            <option value="English" selected>English</option>
+            <option value="France">France</option>
+            <option value="Germany">Germany</option>
+        </select>
+        <select class="currency">
+            <option value="USD" selected>USD</option>
+            <option value="EUR">EUR</option>
+            <option value="DDD">DDD</option>
+        </select>*@
+
+                </div>
+                <div class="col-xs-6">
+                    <ul class="top-link">
+                        @Html.Partial("_LoginPartial", ADLVstore.Models.BUS.ThongTinCaNhanBUS.LoadThongTin(User.Identity.GetUserId()))
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <!--Header-->
+   @if (User.Identity.IsAuthenticated)
+    {
+       
+        @Html.Partial("_Header", ADLVstore.Models.BUS.GioHangBUS.DanhSach(User.Identity.GetUserId()));
+    }
+    @*@Html.Partial("_Header")*@
+        <!--Navigation-->
+        <nav id="menu" class="navbar">
+            <div class="container">
+
+                <div class="navbar-header">
+                    <span id="heading" class="visible-xs">Categories</span>
+                    <button type="button" class="btn btn-navbar navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse"><i class="fa fa-bars"></i></button>
+                </div>
+                @{
+                    if (User.IsInRole("Admin"))
+                    {
+                        <div class="collapse navbar-collapse navbar-ex1-collapse">
+                            <ul class="nav navbar-nav">
+                                <li>@Html.ActionLink("Trang Chủ", "Index", "Home")</li>
+                                <li>@Html.ActionLink("Sản Phẩm", "Index", "shop")</li>
+                                @Html.Partial("_NhaSanXuat", ADLVstore.Models.BUS.NhaSanXuatBUS.DanhSach())
+                                @Html.Partial("_LoaiSanPham", ADLVstore.Models.BUS.LoaiSanPhamBUS.DanhSach())
+                                <li> @Html.ActionLink("Thông Tin", "about", "Home")</li>
+                                <li> @Html.ActionLink("Liên Hệ", "contact", "Home")</li>
+                                <li> @Html.ActionLink("Admin", "Index", "Admin")</li>
+                                @*<li> @Html.ActionLink("Đơn Hàng", "Donhang", "ThongTinDonHang")</li>*@
+                            </ul>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="collapse navbar-collapse navbar-ex1-collapse">
+                            <ul class="nav navbar-nav">
+                                <li>@Html.ActionLink("Trang Chủ", "Index", "Home")</li>
+                                <li>@Html.ActionLink("Sản Phẩm", "Index", "shop")</li>
+                                @Html.Partial("_NhaSanXuat", ADLVstore.Models.BUS.NhaSanXuatBUS.DanhSach())
+                                @Html.Partial("_LoaiSanPham", ADLVstore.Models.BUS.LoaiSanPhamBUS.DanhSach())
+                                <li> @Html.ActionLink("Thông Tin", "about", "Home")</li>
+                                <li> @Html.ActionLink("Liên Hệ", "contact", "Home")</li>
+                               @* <li> @Html.ActionLink("Admin", "Index", "Admin")</li>*@
+                                @*<li> @Html.ActionLink("Đơn Hàng", "Donhang", "ThongTinDonHang")</li>*@
+                            </ul>
+                        </div>
+                    }
+                }
+               
+            </div>
+        </nav>
+
+        <!--//////////////////////////////////////////////////-->
+        <!--///////////////////HomePage///////////////////////-->
+        <!--//////////////////////////////////////////////////-->
+        @RenderBody()
+        @{Html.RenderPartial("_Footer");}
+        @RenderSection("scripts", required: false)
+    </body>
+</html>

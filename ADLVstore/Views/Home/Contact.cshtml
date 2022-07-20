@@ -1,0 +1,50 @@
+﻿@{
+    ViewBag.Title = "Contact";
+}
+
+<h3>@ViewBag.Message</h3>
+
+<div id="page-content" class="single-page">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <ul class="breadcrumb">
+                    <li><a href=""@Url.Action("index","Home")">Trang Chủ</a></li>
+                    <li><a href=""@Url.Action("Contact","Home")">Liên Hệ</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="heading"><h1>Liên hệ với chúng tôi</h1></div>
+            </div>
+            <div class="col-md-6" style="margin-bottom: 30px;">
+                <form name="form1" id="ff" method="post" action="contact.php">
+                    <div class="form-group">
+                        <h6>Nhập tên của bạn:</h6>
+                        <input type="text" class="form-control" placeholder="Your Name *" name="name" id="name" required data-validation-required-message="Please enter your name.">
+                    </div>
+                    <div class="form-group">
+                        <h6>Nhập Email của bạn:</h6>
+                        <input type="email" class="form-control" placeholder="Your Email *" name="email" id="email" required data-validation-required-message="Please enter your email address.">
+                    </div>
+                    <div class="form-group">
+                        <h6>Nhập số điện thoại của bạn:</h6>
+                        <input type="tel" class="form-control" placeholder="Your Phone *" name="phone" id="phone" required data-validation-required-message="Please enter your phone number.">
+                    </div>
+                    <div class="form-group">
+                        <h6>Nhập lời nhắn:</h6>
+                        <textarea class="form-control" placeholder="Your Message *" name="message" id="message" required data-validation-required-message="Please enter a message."></textarea>
+                    </div>
+                    <button type="submit" class="btn btn-1">Send Message</button>
+                </form>
+            </div>
+            <div class="col-md-6">
+                <p><span class="glyphicon glyphicon-home"></span> 141 điện biên phủ phường 15 Quận Bình Thạnh TP. Hồ Chí Minh</p>
+                <p><span class="glyphicon glyphicon-earphone"></span>+84 0966841419</p>
+                <p><span class="glyphicon glyphicon-envelope"></span> dashop123123@gmail.com</p>
+               
+            </div>
+        </div>
+    </div>
+</div>

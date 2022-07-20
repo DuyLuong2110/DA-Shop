@@ -1,0 +1,450 @@
+F:\moi\ADLVstore\ADLVstore\bin\ADLVstore.dll.config
+F:\moi\ADLVstore\ADLVstore\bin\ADLVstore.dll
+F:\moi\ADLVstore\ADLVstore\bin\ADLVstore.pdb
+F:\moi\ADLVstore\ADLVstore\bin\roslyn\csc.exe
+F:\moi\ADLVstore\ADLVstore\bin\roslyn\csc.exe.config
+F:\moi\ADLVstore\ADLVstore\bin\roslyn\csc.rsp
+F:\moi\ADLVstore\ADLVstore\bin\roslyn\csi.exe
+F:\moi\ADLVstore\ADLVstore\bin\roslyn\csi.rsp
+F:\moi\ADLVstore\ADLVstore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\moi\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\moi\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\moi\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\moi\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\moi\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\moi\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\moi\ADLVstore\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\moi\ADLVstore\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\moi\ADLVstore\ADLVstore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\moi\ADLVstore\ADLVstore\bin\roslyn\System.AppContext.dll
+F:\moi\ADLVstore\ADLVstore\bin\roslyn\System.Collections.Immutable.dll
+F:\moi\ADLVstore\ADLVstore\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\moi\ADLVstore\ADLVstore\bin\roslyn\System.IO.FileSystem.dll
+F:\moi\ADLVstore\ADLVstore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\moi\ADLVstore\ADLVstore\bin\roslyn\System.Reflection.Metadata.dll
+F:\moi\ADLVstore\ADLVstore\bin\roslyn\vbc.exe
+F:\moi\ADLVstore\ADLVstore\bin\roslyn\vbc.exe.config
+F:\moi\ADLVstore\ADLVstore\bin\roslyn\vbc.rsp
+F:\moi\ADLVstore\ADLVstore\bin\roslyn\VBCSCompiler.exe
+F:\moi\ADLVstore\ADLVstore\bin\roslyn\VBCSCompiler.exe.config
+F:\moi\ADLVstore\ADLVstore\obj\Debug\DAshop.csproj.AssemblyReference.cache
+F:\moi\ADLVstore\ADLVstore\obj\Debug\DAshop.csproj.CoreCompileInputs.cache
+F:\moi\ADLVstore\ADLVstore\obj\Debug\DAshop.csproj.CopyComplete
+F:\moi\ADLVstore\ADLVstore\obj\Debug\ADLVstore.dll
+F:\moi\ADLVstore\ADLVstore\obj\Debug\ADLVstore.pdb
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\bin\ADLVstore.dll.config
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\bin\ADLVstore.dll
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\bin\ADLVstore.pdb
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\bin\roslyn\csc.exe
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\bin\roslyn\csc.exe.config
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\bin\roslyn\csc.rsp
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\bin\roslyn\csi.exe
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\bin\roslyn\csi.rsp
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\bin\roslyn\System.AppContext.dll
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\bin\roslyn\System.Collections.Immutable.dll
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\bin\roslyn\System.IO.FileSystem.dll
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\bin\roslyn\System.Reflection.Metadata.dll
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\bin\roslyn\vbc.exe
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\bin\roslyn\vbc.exe.config
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\bin\roslyn\vbc.rsp
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\bin\roslyn\VBCSCompiler.exe
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\bin\roslyn\VBCSCompiler.exe.config
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\obj\Debug\DAshop.csproj.AssemblyReference.cache
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\obj\Debug\DAshop.csproj.CoreCompileInputs.cache
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\obj\Debug\DAshop.csproj.CopyComplete
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\obj\Debug\ADLVstore.dll
+D:\Đồ án Cực mạnh\bản ngày 3 tháng 1\ADLVstore\ADLVstore\obj\Debug\ADLVstore.pdb
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\bin\ADLVstore.dll.config
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\bin\ADLVstore.dll
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\bin\ADLVstore.pdb
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\bin\roslyn\csc.exe
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\bin\roslyn\csc.exe.config
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\bin\roslyn\csc.rsp
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\bin\roslyn\csi.exe
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\bin\roslyn\csi.rsp
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\bin\roslyn\System.AppContext.dll
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\bin\roslyn\System.Collections.Immutable.dll
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\bin\roslyn\System.IO.FileSystem.dll
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\bin\roslyn\System.Reflection.Metadata.dll
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\bin\roslyn\vbc.exe
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\bin\roslyn\vbc.exe.config
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\bin\roslyn\vbc.rsp
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\bin\roslyn\VBCSCompiler.exe
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\bin\roslyn\VBCSCompiler.exe.config
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\obj\Debug\DAshop.csproj.CoreCompileInputs.cache
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\obj\Debug\DAshop.csproj.CopyComplete
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\obj\Debug\ADLVstore.dll
+D:\Đồ án Cực mạnh\bản ngày 5 tháng 1\DAshop\ADLVstore\obj\Debug\ADLVstore.pdb
+E:\Bản mới nhất 51\DAshop\ADLVstore\bin\ADLVstore.dll.config
+E:\Bản mới nhất 51\DAshop\ADLVstore\bin\ADLVstore.dll
+E:\Bản mới nhất 51\DAshop\ADLVstore\bin\ADLVstore.pdb
+E:\Bản mới nhất 51\DAshop\ADLVstore\bin\roslyn\csc.exe
+E:\Bản mới nhất 51\DAshop\ADLVstore\bin\roslyn\csc.exe.config
+E:\Bản mới nhất 51\DAshop\ADLVstore\bin\roslyn\csc.rsp
+E:\Bản mới nhất 51\DAshop\ADLVstore\bin\roslyn\csi.exe
+E:\Bản mới nhất 51\DAshop\ADLVstore\bin\roslyn\csi.rsp
+E:\Bản mới nhất 51\DAshop\ADLVstore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Bản mới nhất 51\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Bản mới nhất 51\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Bản mới nhất 51\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Bản mới nhất 51\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Bản mới nhất 51\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Bản mới nhất 51\DAshop\ADLVstore\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Bản mới nhất 51\DAshop\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Bản mới nhất 51\DAshop\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Bản mới nhất 51\DAshop\ADLVstore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Bản mới nhất 51\DAshop\ADLVstore\bin\roslyn\System.AppContext.dll
+E:\Bản mới nhất 51\DAshop\ADLVstore\bin\roslyn\System.Collections.Immutable.dll
+E:\Bản mới nhất 51\DAshop\ADLVstore\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Bản mới nhất 51\DAshop\ADLVstore\bin\roslyn\System.IO.FileSystem.dll
+E:\Bản mới nhất 51\DAshop\ADLVstore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Bản mới nhất 51\DAshop\ADLVstore\bin\roslyn\System.Reflection.Metadata.dll
+E:\Bản mới nhất 51\DAshop\ADLVstore\bin\roslyn\vbc.exe
+E:\Bản mới nhất 51\DAshop\ADLVstore\bin\roslyn\vbc.exe.config
+E:\Bản mới nhất 51\DAshop\ADLVstore\bin\roslyn\vbc.rsp
+E:\Bản mới nhất 51\DAshop\ADLVstore\bin\roslyn\VBCSCompiler.exe
+E:\Bản mới nhất 51\DAshop\ADLVstore\bin\roslyn\VBCSCompiler.exe.config
+E:\Bản mới nhất 51\DAshop\ADLVstore\obj\Debug\DAshop.csproj.CoreCompileInputs.cache
+E:\Bản mới nhất 51\DAshop\ADLVstore\obj\Debug\DAshop.csproj.CopyComplete
+E:\Bản mới nhất 51\DAshop\ADLVstore\obj\Debug\ADLVstore.dll
+E:\Bản mới nhất 51\DAshop\ADLVstore\obj\Debug\ADLVstore.pdb
+E:\Bản mới nhất 51\DAshop\ADLVstore\obj\Debug\DAshop.csprojAssemblyReference.cache
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\bin\ADLVstore.dll.config
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\bin\ADLVstore.dll
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\bin\ADLVstore.pdb
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\bin\roslyn\csc.exe
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\bin\roslyn\csc.exe.config
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\bin\roslyn\csc.rsp
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\bin\roslyn\csi.exe
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\bin\roslyn\csi.rsp
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\bin\roslyn\System.AppContext.dll
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\bin\roslyn\System.Collections.Immutable.dll
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\bin\roslyn\System.IO.FileSystem.dll
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\bin\roslyn\System.Reflection.Metadata.dll
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\bin\roslyn\vbc.exe
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\bin\roslyn\vbc.exe.config
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\bin\roslyn\vbc.rsp
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\bin\roslyn\VBCSCompiler.exe
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\bin\roslyn\VBCSCompiler.exe.config
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\obj\Debug\DAshop.csproj.AssemblyReference.cache
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\obj\Debug\DAshop.csproj.CoreCompileInputs.cache
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\obj\Debug\DAshop.csproj.CopyComplete
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\obj\Debug\ADLVstore.dll
+D:\Đồ án Cực mạnh\bản mới nhất\DAshop\ADLVstore\obj\Debug\ADLVstore.pdb
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\ADLVstore.dll.config
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\ADLVstore.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\ADLVstore.pdb
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\roslyn\csc.exe
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\roslyn\csc.exe.config
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\roslyn\csc.rsp
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\roslyn\csi.exe
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\roslyn\csi.rsp
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\roslyn\System.AppContext.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\roslyn\System.Collections.Immutable.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\roslyn\System.IO.FileSystem.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\roslyn\System.Reflection.Metadata.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\roslyn\vbc.exe
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\roslyn\vbc.exe.config
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\roslyn\vbc.rsp
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\roslyn\VBCSCompiler.exe
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\roslyn\VBCSCompiler.exe.config
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\Facebook.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\Facebook.xml
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\obj\Debug\DAshop.csproj.CoreCompileInputs.cache
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\obj\Debug\DAshop.csproj.CopyComplete
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\obj\Debug\ADLVstore.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\obj\Debug\ADLVstore.pdb
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\DAshop\ADLVstore\obj\Debug\DAshop.csproj.AssemblyReference.cache
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\ADLVstore.dll.config
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\ADLVstore.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\ADLVstore.pdb
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\roslyn\csc.exe
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\roslyn\csc.exe.config
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\roslyn\csc.rsp
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\roslyn\csi.exe
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\roslyn\csi.rsp
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\roslyn\System.AppContext.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\roslyn\System.Collections.Immutable.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\roslyn\System.IO.FileSystem.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\roslyn\System.Reflection.Metadata.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\roslyn\vbc.exe
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\roslyn\vbc.exe.config
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\roslyn\vbc.rsp
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\roslyn\VBCSCompiler.exe
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\roslyn\VBCSCompiler.exe.config
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\Facebook.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\Facebook.xml
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\obj\Debug\DAshop.csproj.AssemblyReference.cache
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\obj\Debug\DAshop.csproj.CoreCompileInputs.cache
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\obj\Debug\DAshop.csproj.CopyComplete
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\obj\Debug\ADLVstore.dll
+D:\Đồ án Cực mạnh\Bản Gần hoàn thành\New folder (2)\DAshop\ADLVstore\obj\Debug\ADLVstore.pdb
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\ADLVstore.dll.config
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\ADLVstore.dll
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\ADLVstore.pdb
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\roslyn\csc.exe
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\roslyn\csc.exe.config
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\roslyn\csc.rsp
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\roslyn\csi.exe
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\roslyn\csi.rsp
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\roslyn\System.AppContext.dll
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\roslyn\System.Collections.Immutable.dll
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\roslyn\System.IO.FileSystem.dll
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\roslyn\System.Reflection.Metadata.dll
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\roslyn\vbc.exe
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\roslyn\vbc.exe.config
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\roslyn\vbc.rsp
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\roslyn\VBCSCompiler.exe
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\roslyn\VBCSCompiler.exe.config
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\Facebook.dll
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\bin\Facebook.xml
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\obj\Debug\DAshop.csproj.AssemblyReference.cache
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\obj\Debug\DAshop.csproj.CoreCompileInputs.cache
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\obj\Debug\DAshop.csproj.CopyComplete
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\obj\Debug\ADLVstore.dll
+D:\Đồ án Cực mạnh\bản gần cuối ngày 11 tháng 1\DAshop\ADLVstore\obj\Debug\ADLVstore.pdb
+E:\DASHOPMOI\DAshop\ADLVstore\bin\ADLVstore.dll.config
+E:\DASHOPMOI\DAshop\ADLVstore\bin\ADLVstore.dll
+E:\DASHOPMOI\DAshop\ADLVstore\bin\ADLVstore.pdb
+E:\DASHOPMOI\DAshop\ADLVstore\bin\roslyn\csc.exe
+E:\DASHOPMOI\DAshop\ADLVstore\bin\roslyn\csc.exe.config
+E:\DASHOPMOI\DAshop\ADLVstore\bin\roslyn\csc.rsp
+E:\DASHOPMOI\DAshop\ADLVstore\bin\roslyn\csi.exe
+E:\DASHOPMOI\DAshop\ADLVstore\bin\roslyn\csi.rsp
+E:\DASHOPMOI\DAshop\ADLVstore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\DASHOPMOI\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\DASHOPMOI\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\DASHOPMOI\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\DASHOPMOI\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\DASHOPMOI\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\DASHOPMOI\DAshop\ADLVstore\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\DASHOPMOI\DAshop\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\DASHOPMOI\DAshop\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\DASHOPMOI\DAshop\ADLVstore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\DASHOPMOI\DAshop\ADLVstore\bin\roslyn\System.AppContext.dll
+E:\DASHOPMOI\DAshop\ADLVstore\bin\roslyn\System.Collections.Immutable.dll
+E:\DASHOPMOI\DAshop\ADLVstore\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\DASHOPMOI\DAshop\ADLVstore\bin\roslyn\System.IO.FileSystem.dll
+E:\DASHOPMOI\DAshop\ADLVstore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\DASHOPMOI\DAshop\ADLVstore\bin\roslyn\System.Reflection.Metadata.dll
+E:\DASHOPMOI\DAshop\ADLVstore\bin\roslyn\vbc.exe
+E:\DASHOPMOI\DAshop\ADLVstore\bin\roslyn\vbc.exe.config
+E:\DASHOPMOI\DAshop\ADLVstore\bin\roslyn\vbc.rsp
+E:\DASHOPMOI\DAshop\ADLVstore\bin\roslyn\VBCSCompiler.exe
+E:\DASHOPMOI\DAshop\ADLVstore\bin\roslyn\VBCSCompiler.exe.config
+E:\DASHOPMOI\DAshop\ADLVstore\bin\Facebook.dll
+E:\DASHOPMOI\DAshop\ADLVstore\bin\Syncfusion.Compression.Base.dll
+E:\DASHOPMOI\DAshop\ADLVstore\bin\Syncfusion.DocIO.Base.dll
+E:\DASHOPMOI\DAshop\ADLVstore\bin\Syncfusion.EJ.dll
+E:\DASHOPMOI\DAshop\ADLVstore\bin\Syncfusion.EJ.Export.dll
+E:\DASHOPMOI\DAshop\ADLVstore\bin\Syncfusion.EJ.Web.dll
+E:\DASHOPMOI\DAshop\ADLVstore\bin\Syncfusion.Licensing.dll
+E:\DASHOPMOI\DAshop\ADLVstore\bin\Syncfusion.Linq.Base.dll
+E:\DASHOPMOI\DAshop\ADLVstore\bin\Syncfusion.OfficeChart.Base.dll
+E:\DASHOPMOI\DAshop\ADLVstore\bin\Syncfusion.Pdf.Base.dll
+E:\DASHOPMOI\DAshop\ADLVstore\bin\Syncfusion.Presentation.Base.dll
+E:\DASHOPMOI\DAshop\ADLVstore\bin\Syncfusion.XlsIO.Base.dll
+E:\DASHOPMOI\DAshop\ADLVstore\bin\Facebook.xml
+E:\DASHOPMOI\DAshop\ADLVstore\bin\Syncfusion.Compression.Base.xml
+E:\DASHOPMOI\DAshop\ADLVstore\bin\Syncfusion.DocIO.Base.xml
+E:\DASHOPMOI\DAshop\ADLVstore\bin\Syncfusion.EJ.xml
+E:\DASHOPMOI\DAshop\ADLVstore\bin\Syncfusion.EJ.Export.xml
+E:\DASHOPMOI\DAshop\ADLVstore\bin\Syncfusion.EJ.Web.xml
+E:\DASHOPMOI\DAshop\ADLVstore\bin\Syncfusion.Linq.Base.xml
+E:\DASHOPMOI\DAshop\ADLVstore\bin\Syncfusion.OfficeChart.Base.xml
+E:\DASHOPMOI\DAshop\ADLVstore\bin\Syncfusion.Pdf.Base.xml
+E:\DASHOPMOI\DAshop\ADLVstore\bin\Syncfusion.Presentation.Base.xml
+E:\DASHOPMOI\DAshop\ADLVstore\bin\Syncfusion.XlsIO.Base.xml
+E:\DASHOPMOI\DAshop\ADLVstore\obj\Debug\DAshop.csproj.CoreCompileInputs.cache
+E:\DASHOPMOI\DAshop\ADLVstore\obj\Debug\DAshop.csproj.CopyComplete
+E:\DASHOPMOI\DAshop\ADLVstore\obj\Debug\ADLVstore.dll
+E:\DASHOPMOI\DAshop\ADLVstore\obj\Debug\ADLVstore.pdb
+E:\DASHOPMOI\DAshop\ADLVstore\obj\Debug\DAshop.csprojAssemblyReference.cache
+F:\DAshop\ADLVstore\bin\ADLVstore.dll.config
+F:\DAshop\ADLVstore\bin\ADLVstore.dll
+F:\DAshop\ADLVstore\bin\ADLVstore.pdb
+F:\DAshop\ADLVstore\bin\roslyn\csc.exe
+F:\DAshop\ADLVstore\bin\roslyn\csc.exe.config
+F:\DAshop\ADLVstore\bin\roslyn\csc.rsp
+F:\DAshop\ADLVstore\bin\roslyn\csi.exe
+F:\DAshop\ADLVstore\bin\roslyn\csi.rsp
+F:\DAshop\ADLVstore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\DAshop\ADLVstore\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\DAshop\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\DAshop\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\DAshop\ADLVstore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\DAshop\ADLVstore\bin\roslyn\System.AppContext.dll
+F:\DAshop\ADLVstore\bin\roslyn\System.Collections.Immutable.dll
+F:\DAshop\ADLVstore\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\DAshop\ADLVstore\bin\roslyn\System.IO.FileSystem.dll
+F:\DAshop\ADLVstore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\DAshop\ADLVstore\bin\roslyn\System.Reflection.Metadata.dll
+F:\DAshop\ADLVstore\bin\roslyn\vbc.exe
+F:\DAshop\ADLVstore\bin\roslyn\vbc.exe.config
+F:\DAshop\ADLVstore\bin\roslyn\vbc.rsp
+F:\DAshop\ADLVstore\bin\roslyn\VBCSCompiler.exe
+F:\DAshop\ADLVstore\bin\roslyn\VBCSCompiler.exe.config
+F:\DAshop\ADLVstore\bin\Facebook.dll
+F:\DAshop\ADLVstore\bin\Syncfusion.Compression.Base.dll
+F:\DAshop\ADLVstore\bin\Syncfusion.DocIO.Base.dll
+F:\DAshop\ADLVstore\bin\Syncfusion.EJ.dll
+F:\DAshop\ADLVstore\bin\Syncfusion.EJ.Export.dll
+F:\DAshop\ADLVstore\bin\Syncfusion.EJ.Web.dll
+F:\DAshop\ADLVstore\bin\Syncfusion.Licensing.dll
+F:\DAshop\ADLVstore\bin\Syncfusion.Linq.Base.dll
+F:\DAshop\ADLVstore\bin\Syncfusion.OfficeChart.Base.dll
+F:\DAshop\ADLVstore\bin\Syncfusion.Pdf.Base.dll
+F:\DAshop\ADLVstore\bin\Syncfusion.Presentation.Base.dll
+F:\DAshop\ADLVstore\bin\Syncfusion.XlsIO.Base.dll
+F:\DAshop\ADLVstore\bin\Facebook.xml
+F:\DAshop\ADLVstore\bin\Syncfusion.Compression.Base.xml
+F:\DAshop\ADLVstore\bin\Syncfusion.DocIO.Base.xml
+F:\DAshop\ADLVstore\bin\Syncfusion.EJ.xml
+F:\DAshop\ADLVstore\bin\Syncfusion.EJ.Export.xml
+F:\DAshop\ADLVstore\bin\Syncfusion.EJ.Web.xml
+F:\DAshop\ADLVstore\bin\Syncfusion.Linq.Base.xml
+F:\DAshop\ADLVstore\bin\Syncfusion.OfficeChart.Base.xml
+F:\DAshop\ADLVstore\bin\Syncfusion.Pdf.Base.xml
+F:\DAshop\ADLVstore\bin\Syncfusion.Presentation.Base.xml
+F:\DAshop\ADLVstore\bin\Syncfusion.XlsIO.Base.xml
+F:\DAshop\ADLVstore\obj\Debug\DAshop.csproj.CoreCompileInputs.cache
+F:\DAshop\ADLVstore\obj\Debug\DAshop.csproj.CopyComplete
+F:\DAshop\ADLVstore\obj\Debug\ADLVstore.dll
+F:\DAshop\ADLVstore\obj\Debug\ADLVstore.pdb
+F:\DAshop\ADLVstore\obj\Debug\DAshop.csproj.AssemblyReference.cache
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\ADLVstore.dll.config
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\ADLVstore.dll
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\ADLVstore.pdb
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\roslyn\csc.exe
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\roslyn\csc.exe.config
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\roslyn\csc.rsp
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\roslyn\csi.exe
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\roslyn\csi.rsp
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\roslyn\System.AppContext.dll
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\roslyn\System.Collections.Immutable.dll
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\roslyn\System.IO.FileSystem.dll
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\roslyn\System.Reflection.Metadata.dll
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\roslyn\vbc.exe
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\roslyn\vbc.exe.config
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\roslyn\vbc.rsp
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\roslyn\VBCSCompiler.exe
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\roslyn\VBCSCompiler.exe.config
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\Facebook.dll
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\Syncfusion.Compression.Base.dll
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\Syncfusion.DocIO.Base.dll
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\Syncfusion.EJ.dll
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\Syncfusion.EJ.Export.dll
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\Syncfusion.EJ.Web.dll
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\Syncfusion.Licensing.dll
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\Syncfusion.Linq.Base.dll
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\Syncfusion.OfficeChart.Base.dll
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\Syncfusion.Pdf.Base.dll
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\Syncfusion.Presentation.Base.dll
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\Syncfusion.XlsIO.Base.dll
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\Facebook.xml
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\Syncfusion.Compression.Base.xml
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\Syncfusion.DocIO.Base.xml
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\Syncfusion.EJ.xml
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\Syncfusion.EJ.Export.xml
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\Syncfusion.EJ.Web.xml
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\Syncfusion.Linq.Base.xml
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\Syncfusion.OfficeChart.Base.xml
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\Syncfusion.Pdf.Base.xml
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\Syncfusion.Presentation.Base.xml
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\bin\Syncfusion.XlsIO.Base.xml
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\obj\Debug\DAshop.csproj.AssemblyReference.cache
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\obj\Debug\DAshop.csproj.CoreCompileInputs.cache
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\obj\Debug\DAshop.csproj.CopyComplete
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\obj\Debug\ADLVstore.dll
+D:\Đồ án Cực mạnh\Đồ án để nộp\DAshop\ADLVstore\obj\Debug\ADLVstore.pdb

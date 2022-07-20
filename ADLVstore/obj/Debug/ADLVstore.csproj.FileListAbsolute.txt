@@ -1,0 +1,204 @@
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\bin\ADLVstore.dll.config
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\bin\ADLVstore.dll
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\bin\ADLVstore.pdb
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\bin\roslyn\csc.exe
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\bin\roslyn\csc.exe.config
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\bin\roslyn\csc.rsp
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\bin\roslyn\csi.exe
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\bin\roslyn\csi.rsp
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\bin\roslyn\vbc.exe
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\bin\roslyn\vbc.exe.config
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\bin\roslyn\vbc.rsp
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\obj\Debug\ADLVstore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\obj\Debug\ADLVstore.csproj.CopyComplete
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\obj\Debug\ADLVstore.dll
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\obj\Debug\ADLVstore.pdb
+C:\Users\Admin\source\repos\ADLVstore\ADLVstore\obj\Debug\ADLVstore.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\bin\ADLVstore.dll.config
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\bin\ADLVstore.dll
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\bin\ADLVstore.pdb
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\obj\Debug\ADLVstore.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\obj\Debug\ADLVstore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\obj\Debug\ADLVstore.csproj.CopyComplete
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\obj\Debug\ADLVstore.dll
+C:\Users\Admin\Desktop\ADLVstore\ADLVstore\obj\Debug\ADLVstore.pdb
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\bin\ADLVstore.dll.config
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\bin\ADLVstore.dll
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\bin\ADLVstore.pdb
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\obj\Debug\ADLVstore.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\obj\Debug\ADLVstore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\obj\Debug\ADLVstore.csproj.CopyComplete
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\obj\Debug\ADLVstore.dll
+C:\Users\Admin\Desktop\ADLVstore - Copy\ADLVstore\obj\Debug\ADLVstore.pdb
+E:\ADLVstore\ADLVstore\ADLVstore\bin\ADLVstore.dll.config
+E:\ADLVstore\ADLVstore\ADLVstore\bin\ADLVstore.dll
+E:\ADLVstore\ADLVstore\ADLVstore\bin\ADLVstore.pdb
+E:\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\csc.exe
+E:\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\csc.exe.config
+E:\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\csc.rsp
+E:\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\csi.exe
+E:\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\csi.rsp
+E:\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\System.AppContext.dll
+E:\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\System.Collections.Immutable.dll
+E:\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\System.IO.FileSystem.dll
+E:\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\System.Reflection.Metadata.dll
+E:\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\vbc.exe
+E:\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\vbc.exe.config
+E:\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\vbc.rsp
+E:\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\VBCSCompiler.exe
+E:\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\VBCSCompiler.exe.config
+E:\ADLVstore\ADLVstore\ADLVstore\obj\Debug\ADLVstore.csprojAssemblyReference.cache
+E:\ADLVstore\ADLVstore\ADLVstore\obj\Debug\ADLVstore.csproj.CoreCompileInputs.cache
+E:\ADLVstore\ADLVstore\ADLVstore\obj\Debug\ADLVstore.csproj.CopyComplete
+E:\ADLVstore\ADLVstore\ADLVstore\obj\Debug\ADLVstore.dll
+E:\ADLVstore\ADLVstore\ADLVstore\obj\Debug\ADLVstore.pdb
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\ADLVstore.dll.config
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\ADLVstore.dll
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\ADLVstore.pdb
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\csc.exe
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\csc.exe.config
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\csc.rsp
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\csi.exe
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\csi.rsp
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\System.AppContext.dll
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\System.Collections.Immutable.dll
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\System.IO.FileSystem.dll
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\System.Reflection.Metadata.dll
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\vbc.exe
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\vbc.exe.config
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\vbc.rsp
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\VBCSCompiler.exe
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\VBCSCompiler.exe.config
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\obj\Debug\ADLVstore.csprojAssemblyReference.cache
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\obj\Debug\ADLVstore.csproj.CoreCompileInputs.cache
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\obj\Debug\ADLVstore.csproj.CopyComplete
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\obj\Debug\ADLVstore.dll
+E:\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\obj\Debug\ADLVstore.pdb
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\ADLVstore.dll.config
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\ADLVstore.dll
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\ADLVstore.pdb
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\csc.exe
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\csc.exe.config
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\csc.rsp
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\csi.exe
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\csi.rsp
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\System.AppContext.dll
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\System.Collections.Immutable.dll
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\System.IO.FileSystem.dll
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\System.Reflection.Metadata.dll
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\vbc.exe
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\vbc.exe.config
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\vbc.rsp
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\VBCSCompiler.exe
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\bin\roslyn\VBCSCompiler.exe.config
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\obj\Debug\ADLVstore.csprojAssemblyReference.cache
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\obj\Debug\ADLVstore.csproj.CoreCompileInputs.cache
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\obj\Debug\ADLVstore.csproj.CopyComplete
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\obj\Debug\ADLVstore.dll
+E:\Banmoinhat\Banmoinhat\ADLVstore\ADLVstore\ADLVstore\obj\Debug\ADLVstore.pdb

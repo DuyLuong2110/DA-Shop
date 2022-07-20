@@ -1,0 +1,17 @@
+﻿@using System.Data;
+@model DataTable
+<table>
+    <h2> Sản phẩm bán Chạy nhất top 5</h2>
+    <tr>
+        <th>Tên Sản Phẩm</th>
+        <th>Số Lượng Bán Ra</th>
+    </tr>
+    @foreach (DataRow row in Model.Rows)
+    {
+        <tr>
+            <td>@row["TenSanPham"]</td>
+            <td>@row["soluongbanra"]</td>
+
+        </tr>
+    }
+</table>

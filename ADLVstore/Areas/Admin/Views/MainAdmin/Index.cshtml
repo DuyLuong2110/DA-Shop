@@ -1,0 +1,106 @@
+﻿@model ADLVstore.Models.ThongkeViewModels
+@using System.Data;
+
+@{
+
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_MainLayoutAdmin.cshtml";
+
+}
+<style>
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        margin: auto;
+    }
+
+    th, td {
+        text-align: center;
+        padding: 8px;
+        color: white;
+    }
+
+    tr:nth-child(even) {
+        background-color: #5d5e63;
+    }
+
+    th {
+        background-color: #FF9407;
+        color: white;
+    }
+</style>
+
+<div class="row">
+    <div class="col-lg-12">
+
+    </div>
+    <div class="col-md-6" style="margin-bottom: 30px;">
+        <table>
+            <h2> Thông kê doanh thu của Shop</h2>
+            <tr>
+                <th>Tháng</th>
+                <th>Số lượng bán ra</th>
+                <th>Tổng doanh thu</th>
+            </tr>
+            @foreach (DataRow row in Model.BangThongKeThang.Rows)
+            {
+                <tr>
+                    <td>@row["thang"]</td>
+                    <td>@row["soluongbanra"]</td>
+                    <td>@String.Format(System.Globalization.CultureInfo.GetCultureInfo("vi-VN"), "{0:c}", row["doanhthu"])</td>
+                </tr>
+            }
+        </table>
+    </div>
+    <div class="col-md-6">
+        @*<form action="#">
+            <input type="month" id="ngay" name="ngay">
+        </form>
+        <button id="load" class="load" name="load-top-5">Cập Nhật</button>*@
+        <!--<div id="top-san-pham" class="top-san-pham">-->
+     @*   @Html.Partial("_Top5SanPham", Model.BangTopSanPham)*@
+    <!--</div>-->
+        <table>
+            <h2> Sản phẩm bán Chạy nhất top 5</h2>
+            <tr>
+                <th>Tên Sản Phẩm</th>
+                <th>Số Lượng Bán Ra</th>
+            </tr>
+            @foreach (DataRow row in Model.BangTopSanPham.Rows)
+            {
+                <tr>
+                    <td>@row["TenSanPham"]</td>
+                    <td>@row["soluongbanra"]</td>
+
+                </tr>
+            }
+        </table>
+    </div>
+    
+</div>
+<!--<script>
+    $(document).ready(function () {
+
+        // $("form").submit(function (event) {
+        $(document).on('click', 'button[id="load"]', function () {
+            console.log('hello');
+            var formData = {
+                ngay: $("#ngay").val(),
+
+            };
+            console.log(formData);-->
+            @*$.get('/MainAdmin/Top5SanPham/', { date: $("#ngay").val()  }).done((result) => {
+                $('#idContainer').html(result);*@
+            <!--$.ajax({
+                type: "get",
+                url: "/MainAdmin/Top5SanPham",
+                data: formData,
+                success: (result){
+                    console.log(result.data);
+                }
+            });
+         
+        });
+
+    });
+</script>-->
